@@ -1,0 +1,3 @@
+[submodule "rl-pipeline"]
+	path = rl-pipeline
+	url = git@github.com:christiandumasrobo/rl-pipeline.git
